@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Welcome to the Krusty Kloud</title>
+    <link>http://krustykloud.com/posts/</link>
+    <description>Recent content in Posts on Welcome to the Krusty Kloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jan 2022 11:35:41 -0500</lastBuildDate><atom:link href="http://krustykloud.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Openstack Documentation Is Not Infallible</title>
+      <link>http://krustykloud.com/posts/the-openstack-documentation-is-not-infallible/</link>
+      <pubDate>Mon, 03 Jan 2022 11:35:41 -0500</pubDate>
+      
+      <guid>http://krustykloud.com/posts/the-openstack-documentation-is-not-infallible/</guid>
+      <description>I spend a fairly significant amount of my time installing and testing different OpenStack deployment methods. As such I am pretty familiar with the documentation, though I will say it hasn&amp;rsquo;t always been that way. When I first started doing this I kind of just tried to yolo it and that ended up not working well. Eventually you learn that you have to pay attention to the documentation, sometimes pretty intently like in the case of Kolla as they are providing you with a couple of different options at the early steps of the process.</description>
+    </item>
+    
+  </channel>
+</rss>

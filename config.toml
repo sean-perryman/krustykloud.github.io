@@ -1,0 +1,4 @@
+baseURL = 'http://krustykloud.com/'
+languageCode = 'en-us'
+title = 'Welcome to the Krusty Kloud'
+theme = 'hugowinston'
