@@ -16,8 +16,8 @@ paginate = 3
 [params]
   google_analytics_id = ""
   twitter_handle = "@krustykloud"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = true
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
   showPostsOnHomepage = true
   addFrame = true
   addDot = true
