@@ -3,6 +3,16 @@ languageCode = 'en-us'
 title = 'Welcome to the Krusty Kloud'
 theme = 'hugowinston'
 
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
 [params]
   google_analytics_id = ""
   twitter_handle = "@krustykloud"
