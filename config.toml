@@ -2,3 +2,12 @@ baseURL = 'http://krustykloud.com/'
 languageCode = 'en-us'
 title = 'Welcome to the Krusty Kloud'
 theme = 'hugowinston'
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@krustykloud"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
+  addFrame = true
+  addDot = true
