@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://krustykloud.com/posts/i-finally-got-a-complete-openstack-environment/</loc>
+    <lastmod>2022-01-04T08:33:26-05:00</lastmod>
+  </url><url>
     <loc>http://krustykloud.com/posts/</loc>
-    <lastmod>2022-01-03T11:35:41-05:00</lastmod>
+    <lastmod>2022-01-04T08:33:26-05:00</lastmod>
+  </url><url>
+    <loc>http://krustykloud.com/</loc>
+    <lastmod>2022-01-04T08:33:26-05:00</lastmod>
   </url><url>
     <loc>http://krustykloud.com/posts/the-openstack-documentation-is-not-infallible/</loc>
     <lastmod>2022-01-03T11:35:41-05:00</lastmod>
   </url><url>
-    <loc>http://krustykloud.com/</loc>
-    <lastmod>2022-01-03T11:35:41-05:00</lastmod>
+    <loc>http://krustykloud.com/pages/about/</loc>
   </url><url>
     <loc>http://krustykloud.com/categories/</loc>
+  </url><url>
+    <loc>http://krustykloud.com/pages/</loc>
   </url><url>
     <loc>http://krustykloud.com/tags/</loc>
   </url>
