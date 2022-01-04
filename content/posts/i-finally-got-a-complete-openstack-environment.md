@@ -1,7 +1,7 @@
 ---
 title: "I Finally Got a Complete Openstack Environment"
 date: 2022-01-04T08:33:26-05:00
-draft: true
+draft: false
 ---
 Well, it was bound to happen at some point. I got a complete OpenStack environment up and running with all the
 components I wanted, including Ceph (for live migrations and HA). You might be thinking to yourself I should
